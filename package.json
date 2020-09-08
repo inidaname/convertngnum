@@ -1,6 +1,6 @@
 {
   "name": "convertngnum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This helps you convert phone numbers to nigerian phone numbers at an API level",
   "main": "index.js",
   "scripts": {
