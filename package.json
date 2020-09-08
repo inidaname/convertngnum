@@ -1,0 +1,26 @@
+{
+  "name": "convertngnum",
+  "version": "0.0.1",
+  "description": "This helps you convert phone numbers to nigerian phone numbers at an API level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inidname/convertngnum.git"
+  },
+  "keywords": [
+    "Nigeria",
+    "Phone",
+    "Number",
+    "Convert",
+    "+234"
+  ],
+  "author": ["Ahmad Abdulaziz <@devamaz>", "Hassan Sani <@inidaname>"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inidname/convertngnum/issues"
+  },
+  "homepage": "https://github.com/inidname/convertngnum#readme"
+}
