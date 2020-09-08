@@ -17,7 +17,16 @@
     "Convert",
     "+234"
   ],
-  "author": ["Ahmad Abdulaziz <@devamaz>", "Hassan Sani <@inidaname>"],
+  "author": {
+    "name": "Ahmad Abdulaziz",
+    "url": "https://github.com/devamaz"
+  },
+  "contributors": [
+    {
+      "name": "Hassan Sani",
+      "url": "https://github.com/inidaname"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/inidname/convertngnum/issues"
