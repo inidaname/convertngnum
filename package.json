@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inidname/convertngnum.git"
+    "url": "git+https://github.com/inidaname/convertngnum.git"
   },
   "keywords": [
     "Nigeria",
@@ -29,7 +29,7 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inidname/convertngnum/issues"
+    "url": "https://github.com/inidaname/convertngnum/issues"
   },
-  "homepage": "https://github.com/inidname/convertngnum#readme"
+  "homepage": "https://github.com/inidaname/convertngnum#readme"
 }
