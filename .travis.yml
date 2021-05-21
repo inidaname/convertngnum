@@ -1,0 +1,25 @@
+language: node_js
+
+node_js:
+  - node
+  - 11.0.0
+  - 12.0.0
+  - 13.0.0
+  - 14.0.0
+  - 15.0.0
+  - 16.0.0
+
+sudo: false
+
+
+install:
+  - npm install
+
+cache:
+  directories:
+    - ~/.npm # cache npm's cache
+    - ~/npm # cache latest npm
+
+notifications:
+  email:
+    - ahmad.abdulaziz37@gmail.com
