@@ -6,4 +6,7 @@ describe('Convert number to +234', () => {
     expect(convert.module(number)).toBe(`+2348022211133`)
   });
 
+  it('should throw error for undefined number', () => {
+    expect(convert.module()).toBeUndefined()
+  });
 });
