@@ -4,7 +4,7 @@
   "description": "This helps you convert phone numbers to nigerian phone numbers at an API level",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "CI=true jest"
   },
   "repository": {
     "type": "git",
