@@ -1,5 +1,5 @@
 //add +234 to number
-exports.module = convertNumber = (number) => {
+module.exports = (number) => {
     if (!number) {
         return
     }
