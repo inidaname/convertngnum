@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/inidaname/convertngnum/issues"
   },
-  "homepage": "https://github.com/inidaname/convertngnum#readme"
+  "homepage": "https://github.com/inidaname/convertngnum#readme",
+  "devDependencies": {
+    "jest": "^27.2.1"
+  }
 }
