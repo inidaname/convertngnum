@@ -3,10 +3,10 @@ const convert = require('./index.js')
 describe('Convert number to +234', () => {
   let number = '08022211133'
   it('should convert successfully', () => {
-    expect(convert.module(number)).toBe(`+2348022211133`)
+    expect(convert(number)).toBe(`+2348022211133`)
   });
 
   it('should throw error for undefined number', () => {
-    expect(convert.module()).toBeUndefined()
+    expect(convert()).toBeUndefined()
   });
 });
