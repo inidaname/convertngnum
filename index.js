@@ -7,4 +7,3 @@ module.exports = (number) => {
     const convNum = `+234${rawNumber}`;
     return convNum;
 };
-  
